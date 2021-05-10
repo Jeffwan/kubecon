@@ -68,8 +68,8 @@ weight = 3
 #weight = 5
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+name = "kubecon"
+url = "#kubecon"
 weight = 6
 
 #[[Languages.en.menu.main]]
