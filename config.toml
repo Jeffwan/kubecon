@@ -84,10 +84,10 @@ weight = 6
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/kubecon-logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Kubecon"
+author = "cncf"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -96,7 +96,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/kubecon-logo.png"
 
 # cookies
 [params.cookies]
