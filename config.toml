@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://jeffwan.github.io/kubecon/"
+title = "Kubecon Videos & Slides"
 theme = "meghna-hugo"
 themesDir = "themes"
 # post pagination
